@@ -1,5 +1,8 @@
 # Three.js Journey
 
+This project is used to learn abut shadows(core shadow and drop shadow) in three.js
+I will be following Bruno S. tutorial
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
